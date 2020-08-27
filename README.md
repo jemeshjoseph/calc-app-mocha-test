@@ -12,7 +12,7 @@ npm install
 node calc.js
 ```
 
-To run test using Mocha test framework
+To run tests using Mocha testing framework,
 
 ```
 npm test

@@ -1,0 +1,35 @@
+{
+  "name": "calc-app-mocha-test",
+  "version": "1.0.0",
+  "description": "A simple calculator app build using Node.js and use Mocha framework for unit testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jemeshjoseph/calc-app-mocha-test.git"
+  },
+  "keywords": [
+    "calculator",
+    "command",
+    "line",
+    "cli",
+    "Node.js",
+    "mocha",
+    "TDD",
+    "unit",
+    "test",
+    "chai",
+    "assert"
+  ],
+  "author": "Jemesh Joseph <jemesh.joseph@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jemeshjoseph/calc-app-mocha-test/issues"
+  },
+  "homepage": "https://github.com/jemeshjoseph/calc-app-mocha-test#readme",
+  "devDependencies": {
+    "mocha": "^8.1.2"
+  }
+}
